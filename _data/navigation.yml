@@ -1,6 +1,6 @@
 - name: Home
   link: /AquaPanix/
 - name: About
-  link: /AquaPanix/about.html
+  link: /AquaPanix/about.md
 - name: Blog
   link: /AquaPanix/blog.html

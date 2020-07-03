@@ -1,6 +1,7 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: architect
+title: About
 ---
 
     ...

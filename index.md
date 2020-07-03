@@ -9,3 +9,11 @@ Quan | Description | Price Each | Where | Note
 6 | 1/2 elbow  | ?  |  Home Depot
 4  | 4" caps  | $10  |  Amigos
 1  | 1/2" PVC ball valve  | $2.50  |  Home Depot
+
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>

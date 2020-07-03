@@ -1,9 +1,16 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: architect
-title: About
+title: Home
 ---
 
-    ...
-  <h1>{{ "Hello World!" | downcase }}</h1>
-  ...
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
+</html>

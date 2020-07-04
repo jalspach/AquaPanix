@@ -12,17 +12,17 @@ If I hit the lotto, I would love to do two things:
 - Start a business selling "Intermodal Containers" (an ISO standardized CONEX (CONtainer EXpress) box also known as a Sea Can) built out as small, self contained farms. These containers are standard sized which would make fitting them out fairly simple and repeatable
 - Start a commercial farm in a store. This would allow walk in customers to see the process and purchase plants and fish fresh from the "farm". These items could also be provided to local restaurants again being about as fresh food as someone could hope for.
 
-## Background Docs
+## Sources
 Other than just general poking around, my two major sources for info are:
  - [Rob Bob](https://www.youtube.com/channel/UChz2QEbZECEzUih1DiqZTNA)
- - [Aquaponic Gardening](https://www.amazon.com/Aquaponic-Gardening-Step-Step-Vegetables/dp/086571701X)
+ - Aquaponics book
 
 
 ## Plan
 My basic plan is to just give it all a try but without spending a bunch of $. I have some Idec smart relays in NEMA boxes that I would love to incorporate as well but, we will see. They are end of life and so the only way to program them is from the face which looks like it may be a PITA. More on all of that later.
 
 ## Numbers
-Clearly...more on this later as I convert my back of napkin work into real data. This is actually more like a flood and drain system built in tubes so the numbers are not exactally matched to an NFT style system..
+Clearly...more on this later as I convert my back of napkin work into real data. This is actually more like a flood and drain system built in tubes so the numbers are not exactly matched to an NFT style system..
 Growing space provides X wet media bed
 that much media bed supports x amount of food
 that much food supports x amount of fish

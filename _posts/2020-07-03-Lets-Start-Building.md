@@ -8,5 +8,7 @@ author: James Alspach
 
 ## A-Frame
 
-## Tubes
+## NFT Tubes
 Make sure to level each hole
+### NFT caps
+Patented syphon cap design ensure that all of the water is syphoned out of a tube allowing it to act like a flood and drain bed 

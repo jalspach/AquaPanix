@@ -36,7 +36,7 @@ I will try to break down and keep track of what this project cost me. This is pr
 
 ### Table Test
 <table>
-  {% for row in site.data.AquaPanixParts.csv %}
+  {% for row in site.data.AquaPanixParts %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}

@@ -5,6 +5,9 @@ date: 2020-07-04 01:55:00 -0800
 categories: Parts
 author: James Alspach
 
+## Thoughts
+While I do not need to power the pump on and off at this time I would like to find a use for these relays. The idea that it could provide control based on inputs is very intriguing.
+
 ## Available Parts
 
 ### Smart Relay / Power supply

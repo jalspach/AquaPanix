@@ -15,7 +15,7 @@ If I hit the lotto, I would love to do two things:
 ## Background Docs
 Other than just general poking around, my two major sources for info are:
  - [Rob Bob](https://www.youtube.com/channel/UChz2QEbZECEzUih1DiqZTNA)
- - Aquaponics book
+ - [Aquaponic Gardening](https://www.amazon.com/Aquaponic-Gardening-Step-Step-Vegetables/dp/086571701X)
 
 
 ## Plan

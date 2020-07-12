@@ -36,5 +36,5 @@ I have the following parts mounted on DIN rails in NEMA boxes.
   - [Octopart](https://octopart.com/rh2b-ulac120v-idec-6692642?r=sp)
 
 ### other
-- Link445
+- Link45
   - [iButtonLink](https://www.ibuttonlink.com/products/link45)

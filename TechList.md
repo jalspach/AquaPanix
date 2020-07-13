@@ -1,9 +1,10 @@
-___
+---
 layout: default
-___
+title: TechLust
+---
 
 ## Thoughts
-While I do not need to power the pump on and off at this time I would like to find a use for these parts. The idea that it could automate some options based on time / temp / light / date / etc... is interesting.
+While I do not need to power the pump on and off at this time, I would like to find a use for these parts. The idea that it could automate some options based on time / temp / light / date / etc... is interesting.
 
 ## Available Parts
 I have the following parts mounted on DIN rails in NEMA boxes.
@@ -12,7 +13,7 @@ I have the following parts mounted on DIN rails in NEMA boxes.
 - Idec Smart Relay FL1C-H12RCE
   - [Manual](https://www.idec.com/language/english/manual/FL1CManual.pdf)
   - [Catalog](https://www.idec.com/language/english/catalog/U908/H_SmartRelay_ScreenView.pdf)
-- Idec Extention FL1B-M08D2R2
+- Idec Extension FL1B-M08D2R2
   - [Catalog](https://datasheet.octopart.com/FL1B-M08D2R2-Idec-datasheet-9711105.pdf)
 
 - Barix Barionet 100(?)

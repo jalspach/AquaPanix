@@ -1,5 +1,5 @@
-___
-title: About
-___
+---
+layout: default
+---
 ## Me
 <b>This is a little about me. Not sure why this isn't formatting yet...maybe give it time.</b>

@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 ## Thoughts
 While I do not need to power the pump on and off at this time, I would like to find a use for these parts. The idea that it could automate some options based on time / temp / light / date / etc... is interesting.
 

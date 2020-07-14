@@ -34,38 +34,4 @@ sump needs to support all of that water
 Pump needs to turn over the entire system x times per hour
 
 ## Purchases
-I will try to break down and keep track of what this project cost me. This is probably a bad idea but, I want to know lol
-
-### Parts List
-<table>
-  {% for row in site.data.AquaPanixParts %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
-
-### Tools List
-<table>
-  {% for row in site.data.AquaPanixTools %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
+I will try to break down and keep track of what this project cost me. This is probably a bad idea but, I want to know lol you can always checkout the [partslist](PartsList) for al of the details.

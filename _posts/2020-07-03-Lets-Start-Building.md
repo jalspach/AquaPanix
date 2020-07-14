@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Lets start building"
 date: 2020-07-03 03:50:00 -0800
 categories: Build

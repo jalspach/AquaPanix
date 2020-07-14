@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Thoughts and Ideas"
 date: 2020-07-14 10:27:00 -0800
 categories: Build

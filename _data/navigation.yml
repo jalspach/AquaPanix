@@ -1,8 +1,10 @@
 - name: Home
   link: /AquaPanix/
 - name: About
-  link: /AquaPanix/about.md
+  link: /AquaPanix/about
 - name: Blog
   link: /AquaPanix/blog.html
 - name: Electronics
-  link: /AquaPanix/TechList.md
+  link: /AquaPanix/TechList
+- name: README
+  link /AquaPanix/README

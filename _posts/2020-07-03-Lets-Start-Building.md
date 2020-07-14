@@ -5,6 +5,7 @@ date: 2020-07-03 03:50:00 -0800
 categories: Build
 author: James Alspach
 ---
+This first day of building I got the A-Frame built and one tube set up from end to end. Other entries will cover other parts of the build.
 
 ## A-Frame
 

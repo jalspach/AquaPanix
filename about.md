@@ -2,4 +2,4 @@
 layout: default
 ---
 ## Me
-<b>This is a little about me. Not sure why this isn't formatting yet...maybe give it time.</b>
+Not much exciting here...just a nerd who likes playing with systems.

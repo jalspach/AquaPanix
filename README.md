@@ -1,6 +1,6 @@
-___
+--
 layout: page
-___
+--
 
 ## Welcome to GitHub Pages
 

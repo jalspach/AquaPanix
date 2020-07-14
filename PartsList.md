@@ -36,3 +36,11 @@ Below is a list of parts that I have used so far. I will try to keep this update
     {% endtablerow %}
   {% endfor %}
 </table>
+<hr>
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>

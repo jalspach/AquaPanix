@@ -1,9 +1,10 @@
-
+---
 layout: page
 title: "First Post"
 date: 2020-07-03 03:04:00 -0800
 categories: Introduction
 author: James Alspach
+---
 
 ## Why do this at all?
 Part of the problem is that I am not sure how much we will really eat. It would be a pretty easy sell if we were a family of vegetarians and fish lovers. Unfortunately I may be the only one who loves fish and none of us really devour veggies. With the exception of broccoli but I am not sure if that will work in an NFT (or HybridNFT) row.

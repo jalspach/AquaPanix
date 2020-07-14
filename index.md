@@ -3,7 +3,7 @@ This site will be my notes on this initial Aquaponics project, hopefully, it wil
 It is also a fun way to play with [Jekyll](https://jekyllrb.com/), GitHub and a few other tools.
 
 For a look at the electronics I hope to someday incorporate, you can check out my [TechList](/AquaPanix/TechList) page.
-
+<hr>
 <nav>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>

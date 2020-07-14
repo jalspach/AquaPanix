@@ -37,3 +37,11 @@ I have the following parts mounted on DIN rails in NEMA boxes.
 ### other
 - Link45
   - [iButtonLink](https://www.ibuttonlink.com/products/link45)
+  <hr>
+  <nav>
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </nav>

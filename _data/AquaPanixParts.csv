@@ -1,12 +1,18 @@
-Quanity,Price Each,Description,Where Purchased,Total Price,Note
-1,$49.99,"20' stick of 4"" schedule 40 PVC Pipe",Amigos,$49.99,Stick is flanged at one end and needs to be cut off.
-2,$0.75,"3/4"" to 1/2"" PVC elbow",Home Depot,$1.50,Used inside the cap for the syphon
-6,$0.30,"1/2"" PVC elbow",Home Depot,$1.80,
-4,$10.00,"4"" PVC Cap",Amigos,$40.00,
-1,$2.50,"1/2"" PVC Ball Valve",Home Depot,$2.50,
-2,$8.00,12' Ground Contact Rated 2x4,Home Depot,$16.00,
-1,$7.50,10' Ground contact rated 2x4,Home Depot,$7.50,
-1,$9.00,Set Saw horse brackets,Home Depot,$9.00,
-1,$5.00,Pack of Red Solo type Cups,Savannah,$5.00,will act as inexpensive netpots
-,,,,,
-,,,Total,$133.29,
+Quanity,Description,Where Purchased,Link,Price Each,Total Price,Note
+1,"20' stick of 4"" schedule 40 PVC Pipe",Amigos,https://www.aamigosupply.com/,$49.99,$49.99,Stick is flanged at one end and needs to be cut off.
+2,3/4 in. x 1/2 in. Schedule 40 PVC 90-Degree Reducing Elbow,Home Depot,https://www.homedepot.com/p/3-4-in-x-1-2-in-Schedule-40-PVC-90-Degree-Reducing-Elbow-C406-101/100345769,$0.91,$1.82,Used inside the cap for the syphon
+6,1/2 in. Schedule 40 PVC 90 Degree Elbow,Home Depot,https://www.homedepot.com/p/1-2-in-Schedule-40-PVC-90-Degree-Elbow-C406-005/100344810,$0.35,$2.10,
+4,"4"" PVC Cap",Amigos,https://www.aamigosupply.com/,$10.00,$40.00,
+1,"1/2"" PVC Ball Valve",Home Depot,https://www.homedepot.com/p/Homewerks-Worldwide-1-2-in-PVC-Sch-40-Slip-Joint-x-Slip-Joint-Ball-Valve-VBVP40E3B/202370031,$2.81,$2.81,
+2,2 in. x 4 in. x 12 ft. Hem-Fir Brown Stain Ground Contact Pressure-Treated Lumber,Home Depot,https://www.homedepot.com/p/2-in-x-4-in-x-12-ft-Hem-Fir-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-Actual-1-5-in-x-3-5-in-x-144-in-17463-12/206949777,$8.00,$16.00,
+1,2 in. x 4 in. x 10 ft. Hem-Fir Brown Stain Ground Contact Pressure-Treated Lumber,Home Depot,https://www.homedepot.com/p/2-in-x-4-in-x-10-ft-Hem-Fir-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-Actual-1-5-in-x-3-5-in-x-120-in-17463-10/206952293,$7.50,$7.50,
+1,5.5 in. Steel Galvanized Sawhorse Brackets (2-Pack),Home Depot,https://www.homedepot.com/p/HDX-5-5-in-Steel-Galvanized-Sawhorse-Brackets-2-Pack-SH107/303652579,$9.00,$9.00,
+1,Pack of Red Solo type Cups,Savannah,https://www.solocup.com/products/18-oz-plastic-party-cup/,$5.00,$5.00,will act as inexpensive netpots
+1,55 Gal. Tough Storage Bin in Black,Home Depot,https://www.homedepot.com/p/HDX-55-Gal-Tough-Storage-Bin-in-Black-HDX55GONLINE-4/205597365,$19.98,$19.98,Fish Tank
+1,Roughneck 32 Gal. Outdoor Recycling Bin,Home Depot,https://www.homedepot.com/p/Rubbermaid-Roughneck-32-Gal-Outdoor-Recycling-Bin-1792641/202260842,$20.97,$20.97,For Clarifyer / solids filter. Would have used the black version for $5 less but those were all beat up
+1,38 Gal. Tough Storage Bin in Black,Home Depot,https://www.homedepot.com/p/HDX-38-Gal-Tough-Storage-Bin-in-Black-206114/301356003?keyword=857150005016&semanticToken=d00300r011221000_30aa8c572e93e73b91166f0c428550d6_1594698608836+d00300r011221000+%3E++cnn%3A%7B0%3A0%7D+cnr%3A%7B7%3A0%7D+cnp%3A%7B10%3A0%7D+cnd%3A%7B4%3A0%7D+cne%3A%7B8%3A0%7D+cnb%3A%7B0%3A0%7D+cns%3A%7B5%3A0%7D+cnx%3A%7B3%3A0%7D+cnq%3A%7B0%3A0%7D+cnw%3A%7B0%3A0%7D+cnv%3A%7B0%3A0%7D+st%3A%7B857150005016%7D%3Ast+oos%3A%7B0%3A1%7D+tgr%3A%7BNo+stage+info%7D+smf%3A%7Bca%2Cbr%7D%3Asmf+nf%3A%7B1%7D%3Anf+qu%3A%7B857150005016%7D%3Aqu,$16.98,$16.98,Sump
+1,620 GPH Submersible Pond Pump,Harbor Freight,https://www.homedepot.com/p/HDX-38-Gal-Tough-Storage-Bin-in-Black-206114/301356003?keyword=857150005016&semanticToken=d00300r011221000_30aa8c572e93e73b91166f0c428550d6_1594698608836+d00300r011221000+%3E++cnn%3A%7B0%3A0%7D+cnr%3A%7B7%3A0%7D+cnp%3A%7B10%3A0%7D+cnd%3A%7B4%3A0%7D+cne%3A%7B8%3A0%7D+cnb%3A%7B0%3A0%7D+cns%3A%7B5%3A0%7D+cnx%3A%7B3%3A0%7D+cnq%3A%7B0%3A0%7D+cnw%3A%7B0%3A0%7D+cnv%3A%7B0%3A0%7D+st%3A%7B857150005016%7D%3Ast+oos%3A%7B0%3A1%7D+tgr%3A%7BNo+stage+info%7D+smf%3A%7Bca%2Cbr%7D%3Asmf+nf%3A%7B1%7D%3Anf+qu%3A%7B857150005016%7D%3Aqu,$44.99,$44.99,
+,,,,,,
+,,,,,,
+,,,,,,
+,,Total,,,$237.14,

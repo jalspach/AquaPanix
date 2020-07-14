@@ -10,6 +10,7 @@ This is a place to stash other ideas for the build or the system in general or e
 ## Other system options
 
 * Since this is basically a Flood and Drain system, I could have used rain gutters filled with material. This should be way less $ than the 4" pipe and less work cutting out the holes.
+  * 5 in. x 10 ft. White Traditional Vinyl Gutter - $4.94 vs almost $4 / foot for 4" pipe
 
 ## Thoughts for WebPage
 

@@ -6,7 +6,7 @@ categories: Introduction
 author: James Alspach
 ---
 This is the first post of my notes. My plan is to keep a running memory of what I have done, want to do, should have done, how it's working, etc... on this initial Aquaponics system.
-
+{% capture string_with_newlines %}
 ## Why do this at all?
 Part of the problem is that I am not sure how much we will really eat. It would be a pretty easy sell if we were a family of vegetarians and fish lovers. Unfortunately I may be the only one who loves fish and none of us really devour veggies. With the exception of broccoli but I am not sure if that will work in an NFT (or HybridNFT) row.
 For me, while I will eat any fish I raise and I am sure we will use a lot of what I grow, its more about the system and making that work.
@@ -35,3 +35,6 @@ Pump needs to turn over the entire system x times per hour
 
 ## Purchases
 I will try to break down and keep track of what this project cost me. This is probably a bad idea but, I want to know lol you can always checkout the [partslist](PartsList) for al of the details.
+{% endcapture %}
+
+{{ string_with_newlines | newline_to_br }}

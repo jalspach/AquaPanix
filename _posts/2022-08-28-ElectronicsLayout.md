@@ -32,7 +32,6 @@ Everything needs to connect back to a micro so that:
     - include one to drain each tank as well?   
 
 ## Microcontroller Connections  
-
 - Temp sensors
     - 1 wire bus
 - Flow sensor
@@ -51,7 +50,6 @@ _ Relays for Pump and solenoid connections
     - Analog? in  
 
 ## Display / control  
-
 - LCD display in box for basic numbers
     - can we display a graph?
 - LED's

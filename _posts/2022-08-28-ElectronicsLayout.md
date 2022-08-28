@@ -29,9 +29,9 @@ Everything needs to connect back to a micro so that:
 - Temperature sensor in sump
 - Level sensor in sump
 - Electronic solenoid valve from city water to sump
-    - include one to drain each tank as well?  
+    - include one to drain each tank as well?   
 
-## Micro Connections  
+## Microcontroller Connections  
 
 - Temp sensors
     - 1 wire bus
@@ -58,7 +58,14 @@ _ Relays for Pump and solenoid connections
 - Buttons like the current box
     - Hold to fill Sump (1 total)
     - Hold to drain tanks? (3 total one per tank)
-    - Ability to turn off and on the pump
+    - Ability to turn off and on the pump  
+
+## Power
+- 5VDC / 9VDC for microcontrollers
+- 12 V for 24 V solenoids?
+- 120 VAC for pump
+- Breaker w/ GFCI
+
 
 
 

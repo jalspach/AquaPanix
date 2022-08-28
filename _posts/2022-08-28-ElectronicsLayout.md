@@ -29,25 +29,33 @@ Everything needs to connect back to a micro so that:
 - Temperature sensor in sump
 - Level sensor in sump
 - Electronic solenoid valve from city water to sump
-    - include one to drain each tank?
+    - include one to drain each tank as well?  
+
 ## Micro Connections
-- Temp sensors 1 wire bus
-- Flow sensor - Analog?
-    - 3 Analog in
-- Level sensor - Analog?
-    - 5 Analog in
+- Temp sensors
+    - 1 wire bus
+- Flow sensor
+    - 3 Analog? in
+- Level sensor
+    - 5 Analog? in
     - Could I build a 1 wire or i2c version of this?
 - Push buttons x5
     - Charlieplex? MCP23008?
 - LED's x?
     - Charlieplex? MCP23008?
+_ Relays for Pump and solenoid connections
+    - 4 low volt for solenoids
+    - 1 high volt for pump
+- Total power draw through the sensing transformer
+    - Analog? in  
+
 ## Display / control
 - LCD display in box for basic numbers
     - can we display a graph?
 - Wireless connection back to the network
 - Buttons like the current box
-    - Hold to fill Sump
-    - One each hold to drain tanks? (3 total)
+    - Hold to fill Sump (1 total)
+    - Hold to drain tanks? (3 total one per tank)
     - Ability to turn off and on the pump
 
 

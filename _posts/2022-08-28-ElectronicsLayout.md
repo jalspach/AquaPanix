@@ -6,8 +6,8 @@ date: 2022-08-28 015:35.0 -0700
 categories: Layout
 author: James Alspach
 ---
-Some basic notes on the electronics and how they need to be laid out.
-{% capture string_with_newlines %}
+Some basic notes on the electronics and how they need to be laid out.  
+
 # Overall Plan  
 
 Everything needs to connect back to a micro so that:
@@ -79,7 +79,3 @@ _ Relays for Pump and solenoid connections
 - 12 V for 24 V solenoids?
 - 120 VAC for pump
 - Breaker w/ GFCI  
-
-{% endcapture %}
-
-{{ string_with_newlines | newline_to_br }}

@@ -54,6 +54,8 @@ _ Relays for Pump and solenoid connections
 
 - LCD display in box for basic numbers
     - can we display a graph?
+- LED's
+    - Outside / inside box for general status
 - Wireless connection back to the network
 - Buttons like the current box
     - Hold to fill Sump (1 total)

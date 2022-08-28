@@ -36,6 +36,7 @@ Everything needs to connect back to a micro so that:
     - Analog? in  
 - Light sensors (x3)
     - To detect open tanks 
+- Buzzer
 
 
 ## Microcontroller Connections  
@@ -59,6 +60,8 @@ _ Relays for Pump and solenoid connections
 - Light sensors
     - Analog in (x3)
     - could I simplify this to a digital output and then run it through the MCP23008?
+- Buzzer
+    - Analog output
 
 
 ## Display / control  
@@ -79,3 +82,23 @@ _ Relays for Pump and solenoid connections
 - 12 V for 24 V solenoids?
 - 120 VAC for pump
 - Breaker w/ GFCI  
+
+## To Build
+Need to build one or two boards:
+- I/O Board
+    - Push terminals
+        - 1Wire (include switchable resistor)
+        - GPIO connectivity for external relays (keeps high voltage off of the board)
+        - Analog inputs
+        - Power from power-supply
+    - RS232 Serial Port
+    - USB port (extended from Micro)
+    - CAN Bus (?)
+    - Buttons
+    - LCD
+    - Buzzer
+    - LED's
+    - External LED drivers
+    - Push terminals for external LED's
+    - Header that is mapped pin-to-pin to the Micro for easy connection
+

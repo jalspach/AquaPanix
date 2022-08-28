@@ -8,13 +8,15 @@ author: James Alspach
 ---
 Some basic notes on the electronics and how they need to be laid out.
 {% capture string_with_newlines %}
-# Overall Plan
+# Overall Plan  
+
 Everything needs to connect back to a micro so that:
 1. It can be monitored by MQTT
 2. It can be monitored by local network
 3. It can be controlled by local network
 
-## What are we sensing
+## What are we sensing  
+
 - Flow sensor into top tube
 - Temperature sensor at output of first tube
 - Level sensor at output of first tube
@@ -29,9 +31,15 @@ Everything needs to connect back to a micro so that:
 - Temperature sensor in sump
 - Level sensor in sump
 - Electronic solenoid valve from city water to sump
-    - include one to drain each tank as well?   
+    - include one to drain each tank as well?  
+- Total power draw through the sensing transformer
+    - Analog? in  
+- Light sensors (x3)
+    - To detect open tanks 
+
 
 ## Microcontroller Connections  
+
 - Temp sensors
     - 1 wire bus
 - Flow sensor
@@ -46,29 +54,31 @@ Everything needs to connect back to a micro so that:
 _ Relays for Pump and solenoid connections
     - 4 low volt for solenoids
     - 1 high volt for pump
-- Total power draw through the sensing transformer
-    - Analog? in  
+- Current sensor
+    - Analog in
+- Light sensors
+    - Analog in (x3)
+    - could I simplify this to a digital output and then run it through the MCP23008?
+
 
 ## Display / control  
+
 - LCD display in box for basic numbers
     - can we display a graph?
 - LED's
     - Outside / inside box for general status
 - Wireless connection back to the network
 - Buttons like the current box
-    - Hold to fill Sump (1 total)
+    - Hold to fill sump manually (this should generally be automatic) (1 total)
     - Hold to drain tanks? (3 total one per tank)
-    - Ability to turn off and on the pump  
+    - Ability to turn off / on the pump  
 
-## Power
+## Power  
+
 - 5VDC / 9VDC for microcontrollers
 - 12 V for 24 V solenoids?
 - 120 VAC for pump
-- Breaker w/ GFCI
-
-
-
-
+- Breaker w/ GFCI  
 
 {% endcapture %}
 

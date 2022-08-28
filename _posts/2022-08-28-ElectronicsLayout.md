@@ -31,7 +31,8 @@ Everything needs to connect back to a micro so that:
 - Electronic solenoid valve from city water to sump
     - include one to drain each tank as well?  
 
-## Micro Connections
+## Micro Connections  
+
 - Temp sensors
     - 1 wire bus
 - Flow sensor
@@ -49,7 +50,8 @@ _ Relays for Pump and solenoid connections
 - Total power draw through the sensing transformer
     - Analog? in  
 
-## Display / control
+## Display / control  
+
 - LCD display in box for basic numbers
     - can we display a graph?
 - Wireless connection back to the network

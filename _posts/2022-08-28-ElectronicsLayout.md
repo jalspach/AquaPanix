@@ -86,7 +86,7 @@ _ Relays for Pump and solenoid connections
 ## To Build
 Need to build one or two boards:
 - I/O Board
-    - Push terminals
+    - Screw terminals (like the plugin type on the door boards)
         - 1Wire (include switchable resistor)
         - GPIO connectivity for external relays (keeps high voltage off of the board)
         - Analog inputs

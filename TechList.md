@@ -15,7 +15,10 @@ I have the following parts mounted on DIN rails in NEMA boxes.
   - [Catalog](https://datasheet.octopart.com/FL1B-M08D2R2-Idec-datasheet-9711105.pdf)
 
 - Barix Barionet 100(?)
-  - [Web Page](https://www.barix.com/devices/barionet/barionet-100/)
+  - [Web Page](https://www.barix.com/barionet-100)
+  - [Manual](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://admin.barix.com/productattachments/download/link/id/3696)
+  - [Quick Install Guide](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://admin.barix.com/productattachments/download/link/id/3625)
+  - [Hands On Guide](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://admin.barix.com/productattachments/download/link/id/3621)
 - Barix X8 V1.1 Extension
   - [Web Page](https://www.barix.com/devices/barionet/x8/)
 

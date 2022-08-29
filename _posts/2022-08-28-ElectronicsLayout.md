@@ -25,7 +25,7 @@ Everything needs to connect back to a micro so that:
 - Level sensor at output of second tube
 - Flow sensor out of first tube and into fish tank
 - Temperature sensor in fish tank
-- Level sensor
+- Level sensor in fish tank
 - Temperature sensor in filter
 - Level sensor in filter?
 - Temperature sensor in sump
@@ -44,22 +44,24 @@ Everything needs to connect back to a micro so that:
 - Temp sensors
     - 1 wire bus
 - Flow sensor
-    - 3 Analog? in
+    - 3 Digital in (just pulse count)
 - Level sensor
-    - 5 Analog? in
-    - Could I build a 1 wire or i2c version of this?
+    - 5 Analog in
+        - Could I build a 1 wire or i2c version of this?
+            - ADS7830 or similar
 - Push buttons x5
     - Charlieplex? MCP23008?
 - LED's x?
     - Charlieplex? MCP23008?
 _ Relays for Pump and solenoid connections
+    - GPIO connections
     - 4 low volt for solenoids
     - 1 high volt for pump
 - Current sensor
     - Analog in
 - Light sensors
     - Analog in (x3)
-    - could I simplify this to a digital output and then run it through the MCP23008?
+        - could I simplify this to a digital output and then run it through the MCP23008 or GPIO?
 - Buzzer
     - Analog output
 
